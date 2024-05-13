@@ -1,12 +1,3 @@
-### Olá, sou Gabriel 👋
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 Desenvolvedor backend ...
-- 🌱 Atualmente estudando nodejs/typescript ...
-
 
 <div style="display: inline_block"><br>
   
