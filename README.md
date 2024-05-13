@@ -45,7 +45,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o último per�
 
 ## Curiosidades sobre mim
 
-* Amo música. Gosto muito de cantar e tocar violão nas minhas horas vagas. Me ajuda muito a acalmar e espantar a tristeza.
+* Amo música. Gosto muito de cantar e tocar violão nas minhas horas vagas. Me ajuda muito a acalmar e espantar a tristeza;
 * Viciado em pizza e café(com certeza não faço os dois ao mesmo tempo kkkk);
 * Amo estudar tecnologia e aprender coisas novas. Desafios me motivam a perder minha noite de sono;
 * Alguém que gosta muito de pensar sobre temas difíceis da vida
