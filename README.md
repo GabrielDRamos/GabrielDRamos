@@ -32,7 +32,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o último per�
 ## Informações detalhadas
 
 * **Nome**: Gabriel
-* **Idade**: 30
+* **Idade**: 31
 * **Moro em**: João Pessoa - PB, Brasil
 * **Stack**: Nodejs - Expressjs - Typescript - SQL - ReactJs
 * **University**: UNIPÊ - Análise e Desenvolvimento de Sistemas
