@@ -1,11 +1,12 @@
 
 <div style="display: inline_block"><br>
-  
+
+  <img align="center" alt="GD-HTML" height="30" width="40" src="https://icons8.com.br/icon/XNQU0Xcm2I9s/php"> 
   <img align="center" alt="GD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="GD-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="GD-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="GD-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="GD-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="GD-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -27,7 +28,7 @@
 
 Meu nome é Gabriel Duarte, atualmente morando em João Pessoa - PB, trabalho como desenvolvedor de sistemas full stack, utilizando as linguagens javascript(frontend) e php(backend).
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estudo pós graduação em full stack web.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente faço pós graduação em full stack web.
 
 ## Informações detalhadas
 
