@@ -1,7 +1,7 @@
 
 <div style="display: inline_block"><br>
 
-   <img width="40" height="30" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+   <img align="center" width="40" height="30" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
   <img align="center" alt="GD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
