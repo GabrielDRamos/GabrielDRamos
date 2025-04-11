@@ -37,7 +37,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente faço pós gr
 * **Idade**: 31
 * **Moro em**: João Pessoa - PB, Brasil
 * **Stack**: front: Javascript - Jquery - Bootstrap - Reactjs / Backend: PHP - Nodejs - Expressjs - Typescript - SQL - Posgresql
-* **University**: UNIPÊ - Análise e Desenvolvimento de Sistemas - Pós graduando em Densenvolvimento web full stack
+* **University**: UNIPÊ - Graduado em Análise e Desenvolvimento de Sistemas / Pós graduando em Densenvolvimento web full stack na UNIESP
 
 ## Curiosidades sobre mim
 
