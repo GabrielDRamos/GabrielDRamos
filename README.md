@@ -27,16 +27,16 @@
 
 ## Informações públicas
 
-Meu nome é Gabriel Duarte, atualmente morando em João Pessoa - PB, trabalho como desenvolvedor de sistemas full stack, utilizando as linguagens javascript(frontend) e php(backend).
+Meu nome é Gabriel Duarte, atualmente morando em João Pessoa - PB, trabalho como desenvolvedor de sistemas full stack, utilizando as tecnologias react native e angular(frontend) e spring e plsql(backend).
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente faço pós graduação em full stack web.
 
 ## Informações detalhadas
 
 * **Nome**: Gabriel
-* **Idade**: 31
+* **Idade**: 32
 * **Moro em**: João Pessoa - PB, Brasil
-* **Stack**: front: Javascript - Jquery - Bootstrap - Reactjs / Backend: PHP - Nodejs - Expressjs - Typescript - SQL - Posgresql
+* **Stack**: front: Javascript - Jquery - Bootstrap - Reactjs / Backend:  Nodejs - Fastify - Expressjs - Typescript - SQL - Posgresql
 * **University**: UNIPÊ - Graduado em Análise e Desenvolvimento de Sistemas / Pós graduando em Densenvolvimento web full stack na UNIESP
 
 ## Curiosidades sobre mim
